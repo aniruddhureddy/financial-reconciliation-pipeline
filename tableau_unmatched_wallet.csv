@@ -1,0 +1,18 @@
+id,date,amount,description,source
+W_1004,2026-06-02,300.0,b2b bulk order 99,Wallet
+W_1005,2026-06-03,75.0,customer order #5003,Wallet
+W_1011,2026-06-10,400.0,vip client payment,Wallet
+W_1012,2026-06-11,60.0,customer order #5007,Wallet
+W_1017,2026-06-16,85.0,customer order #5009,Wallet
+W_1020,2026-06-18,45.0,web subscription,Wallet
+W_1022,2026-06-20,125.0,weekend promo sale,Wallet
+W_1023,2026-06-21,95.0,weekend promo sale,Wallet
+W_1025,2026-06-22,275.0,customer order #5012,Wallet
+W_1026,2026-06-23,55.0,customer order #5013,Wallet
+W_1032,2026-06-28,350.0,weekend promo sale,Wallet
+W_1033,2026-06-29,115.0,customer order #5017,Wallet
+W_1035,2026-06-30,65.0,customer order #5018,Wallet
+W_1036,2026-06-30,85.0,customer order #5019,Wallet
+W_1038,2026-06-30,250.0,pending dispute hold,Wallet
+W_1039,2026-06-30,110.0,customer order #5020,Wallet
+W_1040,2026-06-30,90.0,customer order #5021,Wallet

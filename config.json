@@ -1,0 +1,31 @@
+{
+  "thresholds": {
+    "fuzzy_match_threshold": 70,
+    "fee_tolerance_pct": 2.5,
+    "base_date_window_days": 1,
+    "weekend_forward_days": 3,
+    "high_value_warning_threshold": 1000.0
+  },
+  "file_paths": {
+    "bank_csv": "bank_export.csv",
+    "wallet_csv": "wallet_export.csv",
+    "sqlite_db": "reconciliation_results.db"
+  },
+  "column_mappings": {
+    "bank": {
+      "txn_ref": "id",
+      "post_date": "date",
+      "value": "amount",
+      "narrative": "description"
+    },
+    "wallet": {
+      "id": "id",
+      "timestamp": "date",
+      "txn_amount": "amount",
+      "merchant_notes": "description"
+    }
+  },
+  "pipeline": {
+    "generate_mock_data": true
+  }
+}

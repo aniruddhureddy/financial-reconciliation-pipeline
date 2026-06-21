@@ -1,0 +1,13 @@
+txn_ref,post_date,value,narrative
+BNK001,2025-06-01,-450.0,Starbucks Coffee
+BNK002,2025-06-02,-1200.5,Amazon India Marketplace
+BNK003,2025-06-03,5000.0,Salary Credit ACME Corp
+BNK004,2025-06-04,-89.99,Netflix Subscription
+BNK005,2025-06-05,-2500.0,Rent Payment June
+BNK006,2025-06-06,-350.0,Swiggy Order 8821
+BNK007,2025-06-08,-999.0,Flipkart Online Shopping
+BNK008,2025-06-10,-75.0,Uber Ride Mumbai
+BNK009,2025-06-12,-1500.0,Electricity Bill MSEDCL
+BNK010,2025-06-15,-200.0,ATM Cash Withdrawal
+BNK011,2025-06-18,-45.0,Bank Service Charge
+BNK012,2025-06-20,150.0,Interest Credit Q2

@@ -1,0 +1,11 @@
+# Python environment
+venv/
+env/
+__pycache__/
+
+# Databases and temporary files
+*.db
+temp_bank.csv
+
+# OS generated files
+.DS_Store

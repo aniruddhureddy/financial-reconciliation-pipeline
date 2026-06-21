@@ -1,0 +1,24 @@
+bank_id,wallet_id,date,bank_amount,wallet_amount,amount_difference,bank_description,wallet_description,fuzzy_score
+B_1001,W_1001,2026-06-01,97.5,100.0,2.5,cust order 5001,customer order #5001,85.71
+B_1002,W_1002,2026-06-01,243.75,250.0,6.25,cust order 5002,customer order #5002,85.71
+B_1003,W_1003,2026-06-02,48.75,50.0,1.25,web subscription,web subscription,100.0
+B_1006,W_1006,2026-06-04,117.0,120.0,3.0,cust order 5004,customer order #5004,85.71
+B_1007,W_1007,2026-06-05,487.5,500.0,12.5,friday sales batch,friday sales batch,100.0
+B_1008,W_1008,2026-06-06,78.0,80.0,2.0,weekend promo,weekend promo sale,83.87
+B_1009,W_1009,2026-06-08,107.25,110.0,2.75,cust order 5005,customer order #5005,85.71
+B_1010,W_1010,2026-06-09,87.75,90.0,2.25,cust order 5006,customer order #5006,85.71
+B_1014,W_1013,2026-06-12,243.75,250.0,6.25,friday sales batch,friday sales batch,100.0
+B_1015,W_1014,2026-06-13,29.25,30.0,0.75,flash sale,flash sale item,80.0
+B_1016,W_1015,2026-06-15,975.0,1000.0,25.0,enterprise contract,enterprise contract setup,86.36
+B_1017,W_1016,2026-06-15,146.25,150.0,3.75,cust order 5008,customer order #5008,85.71
+B_1019,W_1018,2026-06-17,204.75,210.0,5.25,cust order 5010,customer order #5010,85.71
+B_1020,W_1019,2026-06-17,312.0,320.0,8.0,b2b bulk 100,b2b bulk order 100,80.0
+B_1022,W_1021,2026-06-19,585.0,600.0,15.0,friday sales batch,friday sales batch,100.0
+B_1025,W_1024,2026-06-22,175.5,180.0,4.5,cust order 5011,customer order #5011,85.71
+B_1028,W_1027,2026-06-24,214.5,220.0,5.5,cust order 5014,customer order #5014,85.71
+B_1029,W_1028,2026-06-25,126.75,130.0,3.25,cust order 5015,customer order #5015,85.71
+B_1030,W_1029,2026-06-26,185.25,190.0,4.75,cust order 5016,customer order #5016,85.71
+B_1031,W_1030,2026-06-26,780.0,800.0,20.0,friday sales batch,friday sales batch,100.0
+B_1032,W_1031,2026-06-27,68.25,70.0,1.75,flash sale,flash sale item,80.0
+B_1038,W_1034,2026-06-29,409.5,420.0,10.5,b2b bulk 101,b2b bulk order 101,80.0
+B_1041,W_1037,2026-06-30,487.5,500.0,12.5,end of month promo,end of month promo,100.0

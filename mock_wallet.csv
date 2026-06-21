@@ -1,0 +1,41 @@
+id,date,amount,description
+W_1001,2026-06-01,100.00,Customer Order #5001
+W_1002,2026-06-01,250.00,Customer Order #5002
+W_1003,2026-06-02,50.00,Web Subscription
+W_1004,2026-06-02,300.00,B2B Bulk Order 99
+W_1005,2026-06-03,75.00,Customer Order #5003
+W_1006,2026-06-04,120.00,Customer Order #5004
+W_1007,2026-06-05,500.00,Friday Sales Batch
+W_1008,2026-06-06,80.00,Weekend Promo Sale
+W_1009,2026-06-08,110.00,Customer Order #5005
+W_1010,2026-06-09,90.00,Customer Order #5006
+W_1011,2026-06-10,400.00,VIP Client Payment
+W_1012,2026-06-11,60.00,Customer Order #5007
+W_1013,2026-06-12,250.00,Friday Sales Batch
+W_1014,2026-06-13,30.00,Flash Sale Item
+W_1015,2026-06-15,1000.00,Enterprise Contract Setup
+W_1016,2026-06-15,150.00,Customer Order #5008
+W_1017,2026-06-16,85.00,Customer Order #5009
+W_1018,2026-06-17,210.00,Customer Order #5010
+W_1019,2026-06-17,320.00,B2B Bulk Order 100
+W_1020,2026-06-18,45.00,Web Subscription
+W_1021,2026-06-19,600.00,Friday Sales Batch
+W_1022,2026-06-20,125.00,Weekend Promo Sale
+W_1023,2026-06-21,95.00,Weekend Promo Sale
+W_1024,2026-06-22,180.00,Customer Order #5011
+W_1025,2026-06-22,275.00,Customer Order #5012
+W_1026,2026-06-23,55.00,Customer Order #5013
+W_1027,2026-06-24,220.00,Customer Order #5014
+W_1028,2026-06-25,130.00,Customer Order #5015
+W_1029,2026-06-26,190.00,Customer Order #5016
+W_1030,2026-06-26,800.00,Friday Sales Batch
+W_1031,2026-06-27,70.00,Flash Sale Item
+W_1032,2026-06-28,350.00,Weekend Promo Sale
+W_1033,2026-06-29,115.00,Customer Order #5017
+W_1034,2026-06-29,420.00,B2B Bulk Order 101
+W_1035,2026-06-30,65.00,Customer Order #5018
+W_1036,2026-06-30,85.00,Customer Order #5019
+W_1037,2026-06-30,500.00,End of Month Promo
+W_1038,2026-06-30,250.00,Pending Dispute Hold
+W_1039,2026-06-30,110.00,Customer Order #5020
+W_1040,2026-06-30,90.00,Customer Order #5021

@@ -1,0 +1,20 @@
+id,date,amount,description,source
+B_1004,2026-06-04,292.5,b2b bulk 99,Bank
+B_1005,2026-06-04,73.12,cust order 5003,Bank
+B_1011,2026-06-12,390.0,vip client pymt,Bank
+B_1012,2026-06-12,25.0,monthly account maintenance fee,Bank
+B_1013,2026-06-15,58.5,cust order 5007,Bank
+B_1018,2026-06-17,82.87,cust order 5009,Bank
+B_1021,2026-06-19,43.87,web subscription,Bank
+B_1023,2026-06-22,121.87,weekend promo,Bank
+B_1024,2026-06-23,92.62,weekend promo,Bank
+B_1026,2026-06-24,268.12,cust order 5012,Bank
+B_1027,2026-06-24,53.62,cust order 5013,Bank
+B_1033,2026-06-30,341.25,weekend promo,Bank
+B_1034,2026-06-30,112.12,cust order 5017,Bank
+B_1035,2026-06-30,15.0,chargeback fee,Bank
+B_1036,2026-06-30,29.99,software subscription auto-pay,Bank
+B_1037,2026-06-30,4500.0,inbound investor wire,Bank
+B_1039,2026-06-30,63.37,cust order 5018,Bank
+B_1040,2026-06-30,82.87,cust order 5019,Bank
+B_1042,2026-06-30,35.0,overdraft fee,Bank
